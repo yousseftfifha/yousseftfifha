@@ -42,12 +42,12 @@
  </p>
 
 <p align="center">
-  <a href="https://github.com/Shady7781">
+  <a href="https://github.com/yousseftfifha">
     <img src="https://github-readme-stats.vercel.app/api?username=yousseftfifha&count_private=true&hide_border=true&show_icons=true" alt="yousseftfifha's github stats">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Shady7781">
+  <a href="https://github.com/yousseftfifha">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftfifha&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="yousseftfifha's github stats">
   </a>
 </p>
