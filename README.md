@@ -18,7 +18,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Student Engineer at Esprit.
+
 - 🔭 I’m currently working as a data science intern:
 - 👯 I’m looking to collaborate with other data scientist and analyst :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
