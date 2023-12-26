@@ -60,7 +60,7 @@
 Check out some of my recent articles:
 
 - [Artificial Intelligence Decision Support System for Groundwater Management under Climate Change](https://drive.google.com/file/d/1KgYpb9JJPCP-vBCM-D5pfLxRWZ5bFgSc/view)
-- [Passive_Browser_Detection_in_TLS_Encrypted_Traffic](https://drive.google.com/file/d/12cx1vt51h-OIF-ZlYmAS18Qe6BxDFrU0/view?usp=sharing)
+- [Passive Browser Detection in TLS Encrypted Traffic](https://drive.google.com/file/d/12cx1vt51h-OIF-ZlYmAS18Qe6BxDFrU0/view?usp=sharing)
 
 ## 🎓 Teaching
 
