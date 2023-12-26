@@ -2,7 +2,7 @@
 <p>
   <h1 align="center"><b>Hey, I'm Youssef Tfifha 👋</b></h1>
 </p>
-<h4 align="center"><b>I'm an undergraduate computer science engineer with a focus on data science & analytics </b></h4>
+<h4 align="center"><b>I'm a Junior Data Scientist and Data Science Instructor passionate about leveraging data to derive meaningful insights and solve complex problems. Welcome to my GitHub profile!</b></h4>
 
 <p align="center">
 <br>
@@ -13,11 +13,61 @@
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
-<br>
+## 🔧 Skills
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+- **Programming Languages:** Python, R, Java, PHP, C/C++/C#
+- **Data Analysis:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, PowerBI, Tableau
+- **Database:** SQL, NoSQL
+- **Tools:** Git, Jupyter Notebooks, Jira
+- **Data Engineering:** ETL, SSIS, Talend
+- **BigData:** Cloudera, Hadoop, HDFS,Hive, MapReduce, Kibana,ElasticSearch, Kafka, Spark
+## 📚 Education
+
+- **ESPRIT/ecole Supérieure Privée d'Ingénierie et de Technologie**, Computer Science Engineering, 2023, Tunisia
+## 🔧 Certificates
+- Contribution Certificate in the MedGU-22 conference
+- Fundamentals of Deep Learning
+- Applications of AI for Anomaly Detection
+- Applications of AI for Predictive Maintenance
+- Building Transformer-Based Natural Language Processing Applications
+
+## 🚀 Projects
+
+### [Passive Browser Detection In TLS Encrypted Traffic](https://github.com/yousseftfifha/BrowserDetectionInEncryptedTraffic)
+
+- **Problem:** Traditional browser detection methods have limitations, leading to cybersecurity vulnerabilities in encrypted traffic.
+
+- **Results:** A machine learning-based solution using TCP/IP and TLS data achieves 91% accuracy in passive browser detection, offering enhanced security and insights into encrypted communication.
+
+- **Significance:** This approach addresses limitations, strengthening cybersecurity by accurately identifying browsers in encrypted traffic for improved network protection.
+  
 
 
-- 🔭 I’m currently working as a data science intern:
-- 👯 I’m looking to collaborate with other data scientist and analyst :wink:
-- 💬 Ask me about anything, I am happy to help :smile:
+### [Artificial Intelligence Decision Support System for Groundwater Management under Climate Change: Application to Mornag Plain in Tunisia](https://github.com/yousseftfifha/Groundwater-Management-under-Climate-Change)
+
+- **Problem:** This study addresses the impact of climate change on groundwater levels in Tunisia's Mornag plain, crucial for national agriculture.
+
+- **Results:** AI approaches, including XGBoost and LSTM Neural Network, outperform traditional methods, accurately predicting groundwater levels for improved resource management.
+
+- **Significance:** The models contribute to a Decision Support System, aiding in the optimization of water resources under different climate change scenarios for sustainable agriculture and drinking water supply.
+  
+
+
+## 📝 Publication
+
+Check out some of my recent articles:
+
+- [Artificial Intelligence Decision Support System for Groundwater Management under Climate Change](https://drive.google.com/file/d/1KgYpb9JJPCP-vBCM-D5pfLxRWZ5bFgSc/view)
+- [Passive_Browser_Detection_in_TLS_Encrypted_Traffic](https://drive.google.com/file/d/12cx1vt51h-OIF-ZlYmAS18Qe6BxDFrU0/view?usp=sharing)
+
+## 🎓 Teaching
+
+As a Data Science Instructor @GOMYCODE, I enjoy sharing my knowledge with others. Here are some of the courses I teach:
+
+- [Coding with Python](https://gomycode.com/tn/fr/courses/coding-with-python/)
+- [The Data Science Bootcamp](https://gomycode.com/tn/fr/courses/the-data-science-bootcamp/)
+
+## 📫 Let's Connect
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. Happy coding!
